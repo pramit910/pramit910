@@ -37,7 +37,7 @@ I started my programming journey from printing "Hello World!" using C programmin
 </div>
 
 ---
-### Feel free to connect with me on:
+### 📞 Feel free to connect with me on 📧
 <div id="badges">
   <a href="https://www.linkedin.com/in/pramit-yeole/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
