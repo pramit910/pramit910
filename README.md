@@ -4,7 +4,6 @@
 ### 👨‍💻 About Me:
 I love working on Machine Learning and AI related projects. With a Master's Degree in Industrial Engineering from Northeastern University, Boston, I have extensive knowledge of Deep Learning, Computer Vision, and Natural Language Processing. 
 
-I am currently working with computer vision where I am developing a model capable of real-time face detection and depth estimation. 
 
 <!--
 **pramit910/pramit910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
